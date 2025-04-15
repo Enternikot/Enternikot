@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 <h3 align="center">A full-stack developer from Cologne who specializes in web applications.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enternikot" alt="enternikot" /></a> </p>
-
 - 🔭 I’m currently working on [NuxtAnime](https://github.com/Enternikot/NuxtAnime)
 
 - 🌱 I’m currently learning **Go**
@@ -21,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enternikot&show_icons=true&locale=en&layout=compact" alt="enternikot" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enternikot&show_icons=true&locale=en" alt="enternikot" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enternikot&" alt="enternikot" /></p>
